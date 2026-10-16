@@ -1,0 +1,4 @@
+# Client
+/node_modules
+/build
+/.env
